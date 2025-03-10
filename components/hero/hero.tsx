@@ -4,7 +4,7 @@ import { motion } from "framer-motion"
 import { Download, Eye } from 'lucide-react'
 import Link from "next/link"
 import { FaGithub, FaLinkedin } from "react-icons/fa"
-import { SiFigma, SiGeeksforgeeks, SiLeetcode } from "react-icons/si"
+import { SiFigma } from "react-icons/si"
 import { Button } from "../ui/button"
 import { RainbowButton } from "../ui/rainbow-button"
 
